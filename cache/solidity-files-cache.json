@@ -229,8 +229,8 @@
       ]
     },
     "C:\\Users\\DELL\\Desktop\\Hackathon\\Ajo\\packages\\hardhat\\contracts\\AutoSave.sol": {
-      "lastModificationDate": 1713539601188,
-      "contentHash": "fb33330735dd433a31d790d075702734",
+      "lastModificationDate": 1713558831346,
+      "contentHash": "61da1c3af33f3715cab78d8faa720997",
       "sourceName": "contracts/AutoSave.sol",
       "solcConfig": {
         "version": "0.8.20",
